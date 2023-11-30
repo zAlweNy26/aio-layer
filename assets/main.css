@@ -28,7 +28,7 @@
     }
     
     ::-webkit-scrollbar-thumb {
-        @apply bg-portage-500 dark:bg-portage-400;
+        @apply bg-green-500 dark:bg-green-400;
     }
     
     textarea::-webkit-scrollbar-thumb {
